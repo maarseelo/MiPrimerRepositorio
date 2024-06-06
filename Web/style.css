@@ -1,0 +1,30 @@
+
+body {
+    background-color: #CCCC
+}
+
+header {
+    background-color: #AAAAAA;
+    height: 10%;
+    text-align: center;
+    padding: 20px;
+}
+
+.menu-contenido {
+    background-color: #817fa3;
+    margin-left: 20%;
+    height: 100%;
+    width: 80%;
+}
+
+.menu-lateral {
+    float: left;    
+    height: 100%;
+    width: 20%;
+    background-color: #666666;    
+    color: #CCCCCC;
+}
+
+
+
+

@@ -1,0 +1,7 @@
+services:
+  web:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+    volumes:
+      - C:\Users\mvicencio\Desktop\DockerWeb\Web:/usr/share/nginx/html
